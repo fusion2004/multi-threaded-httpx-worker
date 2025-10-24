@@ -1,0 +1,22 @@
+GIT
+  remote: https://gitlab.com/os85/httpx.git
+  revision: 41661a05c3b5346bab73315dd3a17ace340778fe
+  ref: 41661a05c3b5346bab73315dd3a17ace340778fe
+  specs:
+    httpx (1.6.2)
+      http-2 (>= 1.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    http-2 (1.1.1)
+
+PLATFORMS
+  arm64-darwin-25
+  ruby
+
+DEPENDENCIES
+  httpx!
+
+BUNDLED WITH
+   2.7.2
